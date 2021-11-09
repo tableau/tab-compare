@@ -12,7 +12,7 @@ TabCompare is designed to help identify any formatting differences between diffe
 ----------------------
 Instructions
 ----------------------
-Install ImageMagick. If using the Python file, install the required modules. Prep your Tableau Server instances by using two non-production servers running two different versions of Tableau Server. Turn off all background tasks and take a backup from the first. Restore it to the second.
+Install [ImageMagick](https://imagemagick.org/script/download.php). If using the Python file, install the required modules. Prep your Tableau Server instances by using two non-production servers running two different versions of Tableau Server. Turn off all background tasks and take a backup from the first. Restore it to the second.
 Now, run TabCompare against both servers using the command-line syntax below. Once complete, open TabCompare.twbx, edit the connection, and point to the report.csv that was generated. Review the list of differences found, if any. See bottom of this document for a list of commonly encountered difference types.
 
 
@@ -27,7 +27,7 @@ TabCompare.py				TabCompare Python Source Code
 
 log.py						TacCompare logging module
 
-TabCompare.twbx				TabCompare Tableau Workbook to Analyse Results
+TabCompare.twbx				TabCompare Tableau Workbook to Analyze Results
 
 
 ----------------------
