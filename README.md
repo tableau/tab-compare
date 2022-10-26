@@ -1,4 +1,7 @@
 # tab-compare
+[![Community Supported](https://img.shields.io/badge/Support%20Level-Community%20Supported-457387.svg)](https://www.tableau.com/support-levels-it-and-developer-tools)
+
+
 TabCompare is a visual comparison tool to understand differences in dashboards across different versions of Tableau Server.  It uses ImageMagick Studio LLC.  
 
 
